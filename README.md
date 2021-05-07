@@ -1,6 +1,9 @@
 # My_Learning_DigitalArts
 All the digital arts in images, gifs, clips
 
+## Resources
+* FREE vector arts - https://www.freepik.com/home
+
 ## Animation
 * [12 Principles of Animation (Official Full Series)](https://www.youtube.com/watch?v=uDqjIdI4bF4)
 * [The 5 Types of Animation](https://www.youtube.com/watch?v=NZbrdCAsYqU)
