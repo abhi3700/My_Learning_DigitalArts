@@ -2,7 +2,12 @@
 All the digital arts in images, gifs, clips
 
 ## Resources
-* FREE vector arts - https://www.freepik.com/home
+* FREE vector arts 
+	- https://www.freepik.com/home (signed in & get free access to images) & search e.g. 'person illustration', 'person png'
+	- Open MS PPT, "Insert >> Pictures >> Online Pictures", search e.g. 'person illustration', 'person png'
+
+## Learnings
+* Follow the PPT
 
 ## Animation
 * [12 Principles of Animation (Official Full Series)](https://www.youtube.com/watch?v=uDqjIdI4bF4)
